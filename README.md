@@ -1,0 +1,3 @@
+A basic example of some VBA. I have done my fairshare of VBA but all of it has been coded at work for my employers so I can't share it. And because much of it is about the handling and transformation of sensitive data, even if I were able to share it, it would not make much sense.
+
+The Basic Coin Tracker in this repository is a simple example that illustrates a few skills, web scraping, and basic code competency, pulling prices for a few crypto coins, using the market value entered by the user and calculating a summed market value, making it easy to track market value over time
